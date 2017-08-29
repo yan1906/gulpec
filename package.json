@@ -1,0 +1,8 @@
+{
+  "name": "gulp43",
+  "version": "1.0.0",
+  "description": "intro to gulp",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
