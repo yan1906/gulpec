@@ -1,6 +1,22 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-color: red;
+	background-color: green;
 	
+}
+.square{
+	background-color: #fff;
+	width: 100px;
+	height: 100px;
+/*	display: inline-block;*/
+	border: 1px solid;
+	margin: 0 auto;
+	margin-top: 150px;
+
+}
+.square:hover{
+		transform: rotate(7200deg);
+		background-color: red;
+		transition: all 20s linear;
+
 }
